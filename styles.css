@@ -1,0 +1,8 @@
+  h1{
+    background-color: lightgray;
+    font-family: American Typewriter, serif;
+    font-size: 64px;
+  }
+  .titlepage {
+    border: 2px dotted black;
+  }
